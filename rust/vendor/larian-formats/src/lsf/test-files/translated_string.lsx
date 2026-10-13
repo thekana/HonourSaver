@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="700" lslib_meta="v1,bswap_guids" />
+	<region id="Test">
+		<node id="Test">
+			<attribute id="Text" type="TranslatedString" handle="ls:SomeHandle_hf1e5f0afg5e22g41f8gb0efg3e3dfc78ca53" version="1" />
+		</node>
+	</region>
+</save>

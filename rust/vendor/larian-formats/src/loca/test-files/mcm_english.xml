@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h6e8c611890eb4a589f1777131bebe79a2fcd" version="1">
+Your load order is likely being reset. Use BG3MM 1.0.12.9+ to identify load order problems.
+Issues may stem from using the in-game mod manager or mods with invalid meta.lsx.
+Make sure you have SE and saved + exported your load order.
+</content>
+	<content contentuid="hae2bbc06g288dg43dagb3a5g967fa625c769" version="1">Mod Configuration Menu</content>
+	<content contentuid="h8e2c39a3f3c040aebfb9ad10339dd4ff89f7" version="1">Mod Configuration Menu</content>
+	<content contentuid="h91b72aadb42a441881a1a7c5de2f82e27agga" version="1">Window</content>
+	<content contentuid="hb2789893dcaf46fca8c40add9358e1f2ca93" version="1">Toggle MCM window</content>
+	<content contentuid="h76a89ee330464e30b1b9a01de85cbd0042a6" version="1">Open MCM window on start</content>
+	<content contentuid="h98e72bb15db546859c41ef81ddac77bc5d69" version="1">Reposition window if out of bounds</content>
+	<content contentuid="h48cd3bba1b0347f6b8e81cd36f07890de455" version="1">Automatically reposition the MCM window if it goes outside the screen boundaries.</content>
+	<content contentuid="h0d8762f0ceb645608a64b684e581f7a72d67" version="1">Open the MCM window when the game starts.</content>
+	<content contentuid="h7728653cb8de46388719316b95f3a4110e7c" version="1">The keybinding for toggling MCM's window.&lt;br&gt;Alternatively, use the MCM button in the ESC menu.</content>
+	<content contentuid="h6db631a023d0425ca0a62566ab1bec41797f" version="1">General settings</content>
+	<content contentuid="h67357ed078184370901b1d572062b7ba26a5" version="1">Debug settings</content>
+	<content contentuid="hffc964abc9a74a928cb047607a7aeb124594" version="1">Debug level</content>
+	<content contentuid="h1143226dbdd44d4aab3ce3010ffc589a073a" version="1">Used mainly to determine which messages to print.&lt;br&gt;Useful for developers or general troubleshooting.</content>
+	<content contentuid="h81a4a9991875424984b876d017675879c959" version="1">Welcome to Baldur's Gate 3 Mod Configuration Menu!&lt;br&gt;If you don't see any mods here, you might need to load a save file first.&lt;br&gt;If you still don't see any mods, make sure you have mods that use MCM.&lt;br&gt;&lt;br&gt;By default, you can press Insert to toggle this menu while it is unfocused.</content>
+	<content contentuid="h9abda7ddcd564ba69433278a82884c535566" version="1">Dynamic opacity</content>
+	<content contentuid="h204a4196566b44eb8070bc8b5d36edde1c1d" version="1">Make the MCM window more transparent while interacting with game elements.</content>
+	<content contentuid="h119ee473f3f6444b887ed4e2a2fdb97b9fea" version="1">Host-only mode</content>
+	<content contentuid="h48d5ce6ebd8144649e72da14b64214a9b57f" version="1">Allow only the host to change settings in multiplayer games.</content>
+	<content contentuid="hb7ee77283bd94bd5b9d3fe696b45e85ae804" version="1">Profile management</content>
+	<content contentuid="h2082b6b6954741ef970486be3bb77ad53782" version="1">Manage profiles</content>
+	<content contentuid="h5788159872f84825b184d42c1fbd6a216541" version="1">Create a new profile</content>
+	<content contentuid="h3e4b68e2569e4df2b548b4a5a893a57a7972" version="1">Create</content>
+	<content contentuid="h75b86690333d4937a1737fe8daddde41ga10" version="1">Delete profile '[1]'</content>
+	<content contentuid="hfdf59b69495c4aeca03f38977a00a69d431c" version="1">Cannot delete the default profile.</content>
+	<content contentuid="ha94c42869802455dba878884efdbcbee3fea" version="1">If disabled, the window might require scrolling. You'll be able to resize the window manually by dragging the bottom-right corner.</content>
+	<content contentuid="h47d091e82e1a475b86bbe31555121a22eca7" version="1">Mods</content>
+	<content contentuid="hbdf03cb8dff04632b32aeafd69cbdc406ea3" version="1">Help</content>
+	<content contentuid="h81625d4fad964786b5ab2eb1901e4496d771" version="1">Help and Troubleshooting</content>
+	<content contentuid="ha303b737440345dd831870ef6b4ff7256601" version="1">About</content>
+	<content contentuid="h38c503feb8094c3aae3839b16ea3a74ff1ad" version="1">About MCM</content>
+	<content contentuid="h75ea4d095c1f46dda375abaf9d79cbb51cc7" version="1">Licenses</content>
+	<content contentuid="h45722336fcb04208a1b46356190835bb2d86" version="1">UI tips</content>
+	<content contentuid="h99e6c7f6eb9c43238ca27a89bb45b9690607" version="1">This tab may contain content that is not available in the main menu.&lt;br&gt;Please load a save first.</content>
+	<content contentuid="h8bc90105aaff4addaebee525051bde958a87" version="1">Print deprecation warnings for mods with outdated code.&lt;br&gt;They will still be printed if developer mode is enabled (logic OR).</content>
+	<content contentuid="h676e89908a8543c18ca789ec673306febb93" version="1">Print deprecation warnings</content>
+	<content contentuid="hfdc1753df79d44ee8cf69a3a79e863e5g8cf" version="1">Debug</content>
+	<content contentuid="h8fdf52dfb8b14895a479a2bb6bd2a4af9d4f" version="1">Don't show this again</content>
+	<content contentuid="h9b0d0bba0bf64006a6dd8ed86a4d5353a3d8" version="1">Search by name:</content>
+	<content contentuid="h17e2c93763d54f3f9b5da8722d09cf90fab9" version="1">Check to enable the list, uncheck to disable it, without removing/disabling any elements.</content>
+	<content contentuid="h4ffde733fba3492387caa52d9c585d57f177" version="1">Enable entire list</content>
+	<content contentuid="h60c5e6f97c914061887ad783cccf5ac3371f" version="1">Are you sure you want to delete all elements?</content>
+	<content contentuid="hb2adccb2f863414991f8475d5b394dbb5f65" version="1">Yes</content>
+	<content contentuid="he9e1eaf8a127430bba164fd001b3131aa5c1" version="1">Confirm deletion of all elements</content>
+	<content contentuid="h3481631a19f94c1181c338b3ce88cfff5805" version="1">No</content>
+	<content contentuid="h390af8814d814ef89fd24feb697262452agc" version="1">Cancel deletion of all elements</content>
+	<content contentuid="h7268106aaf6f4d1d90f279554082e1faedbd" version="1">Active</content>
+	<content contentuid="h7b51e015aaa54af789c1ee0c3fbfa48eabb5" version="1">Up/down</content>
+	<content contentuid="h917591f3d3984b62a13f0c6cd6a8d2710de6" version="1">Name</content>
+	<content contentuid="hc8ac6fff0508437d936bb1ae51e9a3dfc8a0" version="1">Remove</content>
+	<content contentuid="h9d7807ea594c4e5cb10d616f4a100c94341g" version="1">Up</content>
+	<content contentuid="h5259f8b44fdd4186bccca1948332cf250ac3" version="1">Down</content>
+	<content contentuid="hb22eb0c6c4ed41b28966287ab5b20c7b35a3" version="1">Click, input a page number and press enter to navigate to it</content>
+	<content contentuid="hb95bf2a27ec04873b561c53aa35066a75b83" version="1">(filtered)</content>
+	<content contentuid="hf10161d75da04360907b151e4eb07054f8cb" version="1">Add new element:</content>
+	<content contentuid="h4b543fe6f0fd4d8199950d7a16b3879ca7d1" version="1">Add</content>
+	<content contentuid="hefc87cc64ef74547b4ccade4ff1676994d53" version="1">[Reset list]</content>
+	<content contentuid="hd2a185ef63ff4c6695b20baf5fd6e08b2b8a" version="1">Reset this list to its default elements</content>
+	<content contentuid="hfdeffc59d25b4fa0910682fd3bb78f7b4d04" version="1">[Delete all]</content>
+	<content contentuid="he16594af5abf4f44b6545facfa654b669g0a" version="1">Delete all elements from the list</content>
+	<content contentuid="h983f2fd776cd40ab844efcca6300d9c87eb5" version="1">Are you sure you want to reset the list to its default elements?</content>
+	<content contentuid="hc22c8995c3d34cb69b677e2c52a7ec3a4691" version="1">Yes</content>
+	<content contentuid="h6ca43c8ed1ec4292af8c51472528c21ed0gd" version="1">Confirm reset of the list</content>
+	<content contentuid="h8886849a4a674633a14df972d408cb71d012" version="1">No</content>
+	<content contentuid="hdf197961585844d394b3e372417ac6fd66eg" version="1">Cancel reset of the list</content>
+	<content contentuid="h2e8476727f27406c813c00ae59dfd9d08543" version="1">Suggestions</content>
+	<content contentuid="h132d4b2d4cd044c8a3956a77f7e3499d0737" version="1">Reset this setting to its default ([1])</content>
+	<content contentuid="hb20ef6573e4b42329222dcae8e6809c9ab0c" version="1">Keybindings</content>
+	<content contentuid="h4c3c735aad0f47c8b13ffee7cc7fcc660338" version="1">Created by [1] | Version [2]</content>
+	<content contentuid="h354808a337024c99b6149d5d1b11934bd36e" version="1">Don't see the MCM window? Check the troubleshooting steps on the mod page.</content>
+	<content contentuid="hf6cf844cd5fb40d3aca640d5584ed6d47459" version="1">Reset</content>
+	<content contentuid="h497bb04f93734d52a265956df140e77a7add" version="1">Reset keybinding to default: [1].</content>
+	<content contentuid="h3da76df520324473a863b03cc622ac65fbfd" version="1">ACTION REQUIRED: Keybinding conflict</content>
+	<content contentuid="h2ea690497b1a4ffea4b2ed480df3654c486f" version="1">Press keys to assign | [ESC] to cancel, [BACKSPACE] to unassign</content>
+	<content contentuid="h08c75c996813442bb40fa085f1ecec07f14e" version="1">Empty hotkey</content>
+	<content contentuid="h2f1eda98ddb949d09792e1e1bc45ecddg446" version="1">Search keybindings:</content>
+	<content contentuid="h7e9b6453340548c29a8f3add8a402bedbe8g" version="1">No matching hotkey found.</content>
+	<content contentuid="h037fe64fb38a45dfb6e3d27ad038f48028a3" version="1">Action Name</content>
+	<content contentuid="h68057d690e2f44ae98c31cb07f8074fb7134" version="1">Keyboard input</content>
+	<content contentuid="h232887313a904f9b8a0818632bb3a418ad0e" version="1">Click to assign a new key combination.</content>
+	<content contentuid="hf1cfd5663fe044a38ea4747ceb768ff02206" version="1">Action: '[1]'</content>
+	<content contentuid="h0f52923132fa41c1a269a7eb647068d8d2ee" version="1">Keybinding [1] for action '[2]' conflicts with action '[3]'.</content>
+	<content contentuid="h8509840fdfe4453b800fd84957a50800gacb" version="1">Keybinding [1] conflicts for action '[2]'.</content>
+	<content contentuid="h919dc9b46db144ed8c330d1abb728459aea3" version="1">Keybinding conflicts with action '[1]'</content>
+	<content contentuid="hbdd48c8cba3e4c31931f1647cb5d73c813ef" version="1">Help and Troubleshooting</content>
+	<content contentuid="h361dd694cca74b30a87f02d035e35dcac0d4" version="1">Troubleshooting and Reporting</content>
+	<content contentuid="hafec095716ec4208b2319d24b3c230d969d4" version="1">Script Extender's (SE) IMGUI implementation is in constant development. If you're having issues:</content>
+	<content contentuid="h11f519e028834967a79753cfe1e6cae28726" version="1">Disable overlays (Nvidia/AMD/Discord, etc);</content>
+	<content contentuid="h264b744397944591bbfbcd2c69f57d2b7150" version="1">If crashing under Vulkan, test without IMGUI mods like MCM</content>
+	<content contentuid="h28faf9b0ffb34b109f4ad73eaed97833896g" version="1">Verify the problem persists with no other DLL mods</content>
+	<content contentuid="h48cad338a0ab4c06bb9060d24a8a5e52e52e" version="1">Ensure you're using the latest BG3 version and SE Release version</content>
+	<content contentuid="h52b099d222d14e21a68cbc088314712856dc" version="1">Reporting Issues</content>
+	<content contentuid="h2021eb6360bd4cce955f32816edc5b06abdg" version="1">Provide SE console logs - you can easily enable the SE console via BG3MM preferences</content>
+	<content contentuid="h4d23bb6e90d2429aa85dea0d7bd5774a79ed" version="1">Include system specs (GPU, CPU, OS)</content>
+	<content contentuid="ha1dd54cb1e754f1099bbf9889210d19c6904" version="1">Describe behavior under DirectX 11 and Vulkan</content>
+	<content contentuid="hc417ce5922854d5dae5c51d7a3dae9b46f19" version="1">Upload crash reports if prompted by the SE</content>
+	<content contentuid="hcb35f546c52546949cbd5bda88fe2af91656" version="1">Known Issues</content>
+	<content contentuid="h90617d43407c4d5d99fe26d08f47934abg89" version="1">UI not showing up: test both Vulkan and DirectX 11</content>
+	<content contentuid="ha41e66cbd942447c808e6bd19f0ff635f69e" version="1">UI Help</content>
+	<content contentuid="h504a5f8e7f544190b496bcde61c78dcb7ba6" version="1">UI Help</content>
+	<content contentuid="hfadac6e330134b9ba8e5e2f1a16cf77cd3bg" version="1">With MCM, you can configure the settings of mods that use MCM.</content>
+	<content contentuid="h54470141a99c47ba95e92f57da1100de5467" version="1">To get started, click a mod from the list on the left.</content>
+	<content contentuid="h126fa009e82d48508463fd049554b08bb8a0" version="1">Navigating the settings</content>
+	<content contentuid="hc9997429f80b488a91c26118fd7662a2ae73" version="1">All settings are saved automatically as you make changes.</content>
+	<content contentuid="h28b119e5d1534fa581ad2c7011f8ce7f7577" version="1">To reset a setting, click the reset button next to it.</content>
+	<content contentuid="had9d11b7951441e3826b571a2a445cc14286" version="1">You can control + click a slider to type in a specific value.</content>
+	<content contentuid="he3146562f01e4896b2fbd158587a69d6b33b" version="1">MCM uses IMGUI, which is a library also used by ReShade and other mods.</content>
+	<content contentuid="he67fc60b9866404a83b49e151d88bf7dg39d" version="1">For more information, visit the MCM page on Nexus.</content>
+	<content contentuid="h03d35de7f7cf49fcb748f08dd7bd46fb5474" version="1">MCM is a centralized configuration menu for Baldur's Gate 3 mods, allowing easy management of mod settings.</content>
+	<content contentuid="hbefc18dccd3646c3bee89e1c8a773eee8c44" version="1">It is designed to be user-friendly and accessible, providing a consistent interface for mod configuration.</content>
+	<content contentuid="h4a0ed3db05bb46c59094f7d5be8e90fa09d2" version="1">Mod Configuration Menu [1] - created by [2]</content>
+	<content contentuid="hf2c6ba6f913344bf8ac81e2a4915213f702g" version="1">About MCM - General</content>
+	<content contentuid="ha3e6f6909b9744fcb28a1be741580718eebc" version="1">It was the culmination of months of work done by mostly a single developer. If you find it useful, please consider endorsing it on Nexus Mods and dropping a donation.</content>
+	<content contentuid="hb2dd4c5e114345a384b9eb030586faf5bbfg" version="1">For more info, visit www.volitio.dev</content>
+	<content contentuid="h5bce8e943b4f4effa9f3b5f44caf244360ea" version="1">About MCM - License</content>
+	<content contentuid="h2c396610bbc24069bf3ee724d868fad5g2e7" version="1">License</content>
+	<content contentuid="h63f26391dd0c4953b167c927ce04240057c7" version="1">BG3MCM's code is licensed under AGPLv3. For details, refer to the GitHub link in the mod description.</content>
+	<content contentuid="h9f85429a1ac84568b1c53940d5f28bc1a2e6" version="1">BG3MCM incorporates code from the Compatibility Framework, BG3ModManager, and Volition Cabinet, all of which are licensed under the MIT License. Additionally, BG3SE is licensed under the MIT License with an added Commons Clause. Open Dyslexic and Inter fonts are licensed under the SIL-OFL. Copies of these licenses are included in the appropriate sections of this mod's code.</content>
+	<content contentuid="hd006c103dba44c48bb3826b5dbbe3f6133b1" version="1">Mod authors and translators may enable donation points for any mods using this framework as a dependency, and may freely use examples provided to help build integration with this mod.</content>
+	<content contentuid="h445fe7fd555e480f9090a0203b1d0a0811g7" version="1">The licensing terms on Nexus complement these permissions. In cases of overlap, the stricter of the two licensing terms should apply.</content>
+	<content contentuid="h4fbe91cade4c4f2f904e55bf12b3ec22egfc" version="1">I extend my gratitude to Norbyte, LaughingLeader, Focus and the CL team for making their code available under such open and permissive licenses, enabling seamless collaboration across the modding community!</content>
+	<content contentuid="h1fe5d3876dd04389b53f1c4d808d2d02gfce" version="1">More Information</content>
+	<content contentuid="h449f8e9c50fe497e8584a92dc227759a1d5d" version="1">For more details, visit the MCM page on Nexus.</content>
+	<content contentuid="h68e7c491c9ff4a02b2b099889c482fc323a0" version="1">Configure hotkeys</content>
+	<content contentuid="h1574a7787caa4e5f933e2f03125a539c1139" version="1">[Manage [1] hotkeys]</content>
+	<content contentuid="hc4b1b51egaec4g4a29g9c3egf175645b417c" version="1">Hotkeys</content>
+	<content contentuid="h0dab893ad8cc4f1a93e417c7524addecggc4" version="1">Decrease the '[1]' value by [2]</content>
+	<content contentuid="heed976f6e50046c2a583040d9abb6ce6c8g1" version="1">Increase the '[1]' value by [2]</content>
+	<content contentuid="h9cc3f92986d24e3e8c1b86eb80023a2b015c" version="1">Increase the '[1]' value by 1</content>
+	<content contentuid="h9d240caa7bbe4ef482d21f1e691b0597a38g" version="1">Decrease the '[1]' value by 1</content>
+	<content contentuid="h3914d63b7ccb425f950cea47eca955ad9788" version="1">Min: [1].&lt;br&gt;Max: [2].</content>
+	<content contentuid="h0dfee4b6ba51423da77eaa53e1961ade059f" version="1">CTRL + click to input value manually.</content>
+	<content contentuid="hfaf078ca60fc4a60b68a038ca3b2dc2b3d6d" version="1">Reinitializes the server and client Lua VM.</content>
+	<content contentuid="hf4378b0d0a444adf974ddb7c5316e111dfc3" version="1">Reset Lua (Server and Client)</content>
+	<content contentuid="hd4e656a649c14e638ab1cb4380ad714746ea" version="1">Keybinding [1] is bound to multiple actions.&lt;br&gt;Open MCM and rebind conflicting keys.</content>
+	<content contentuid="h6fd6de5f403d4d5b8a7ba0a8b353b97f7b09" version="1">Should this keybinding be enabled?&lt;br&gt;Disabling it will prevent it from firing if the keybinding is pressed.</content>
+	<content contentuid="heb5490e38fcf43099f6e7d3cd50e57e3adde" version="1">Set the keybinding for closing MCM's window.</content>
+	<content contentuid="hb2513599ba7a4b689fc3984a9ad9ae1c3d31" version="1">Close MCM window</content>
+	<content contentuid="h3eea24a3dff74849a38e04f0fc43b4b54963" version="1">Sidebar settings</content>
+	<content contentuid="h3f6a4e8a570d41c2bf60d673a3bfa1ef3472" version="1">When enabled, the sidebar will automatically collapse based on inactivity or other collapse triggers (opening a mod page, etc).</content>
+	<content contentuid="h0636d5bc17f6464f99c1da18831bb38f1561" version="1">Enable automatic sidebar collapse</content>
+	<content contentuid="h0813e1fea4fe4400b99a11216d16627be921" version="1">Enable expansion on icon hover</content>
+	<content contentuid="h37d5cb487a49476db6c16dc59452cae67f6f" version="1">Enable hover-based expansion of the sidebar when hovering the hamburger menu icon.</content>
+	<content contentuid="hb341a515eea64380ad0ccfe6c1ff115d1310" version="1">Detached view for mod '[1]'</content>
+	<content contentuid="h0967f545c53f4796bd25d550fe05e234c1ga" version="1">Wrong No Press Any Key Menu version</content>
+	<content contentuid="h41e2dbf1773848eca2001fde456cca4d0156" version="1">You're using 'No Press Any Key Menu' without the MCM compatibility patch.&lt;br&gt;Your main menu may not display the MCM button correctly.&lt;br&gt;&lt;br&gt;Please replace it with the patched version from Caites' mod page.</content>
+	<content contentuid="he1d69e96b7e44957b6d9373635ef69100180" version="1">Dependency issue detected: '[1]' depends on '[2]'.</content>
+	<content contentuid="h0acfde6fg6f34g4904g8526g6f1e1c0865e3" version="1">Conflict issue detected: '[1]' conflicts with '[2]'</content>
+	<content contentuid="h7b007dd3e4cb4a978d05af7938aa3a5bf14g" version="1">Mod '[1]' has an invalid meta.lsx/UUID ([2]).&lt;br&gt;This mod may cause your load order to reset.&lt;br&gt;Delete the pak file for this mod or look for an update.&lt;br&gt;You may downgrade to Patch 6 or 7 and use Mod Uninstaller to try to remove this mod if you can't load a save without this mod.</content>
+	<content contentuid="h5a5567961e334edab3671aaf24c2cabfafef" version="1">Your load order has a mod with an invalid meta.lsx/UUID ([1] [2])</content>
+	<content contentuid="h5ab91d6d4bd04b9696355aa0c34b5be63740" version="1">Can't check dependency '[1]' for mod '[2]' because it has no version information.&lt;br&gt;This doesn't impact functionality, but please contact [3] to update the meta.lsx file for '[4]'.&lt;br&gt;The version node might have an outdated ID (it should be Version64).</content>
+	<content contentuid="h1c39894da62148389dbf1bddaf761a4bf56f" version="1">Mod '[1]' requires '[2]' version [3] or higher, but loaded version is [4].&lt;br&gt;Please update [2].</content>
+	<content contentuid="h81ddeda4ecc14ac3a2c27dbaaea487be2ge7" version="1">Mod '[1]' requires dependency '[2]', which is not loaded.&lt;br&gt;Please install [2].</content>
+	<content contentuid="h729585d6g09c1g48cfg8290ga2e761cc46bf" version="1">Mod '[1]' declares a conflict with mod '[2]', but '[2]' is loaded.&lt;br&gt;Please resolve this conflict by disabling one of them, or look for compatibility patches.</content>
+	<content contentuid="h4e0e208daa6a439ca5ba95a668a7ac36d882" version="1">Hide the sidebar.&lt;br&gt;You can also toggle it with [1].</content>
+	<content contentuid="hbb483085e7f04700beb8cc5bf94a98b4g6ac" version="1">Expand the sidebar containing keybindings, mods, etc.&lt;br&gt;You can also toggle it with [1].</content>
+	<content contentuid="h5270f62d04b243b6b9ea0473bd610aa72b0e" version="1">Detach mod content to a separate window</content>
+	<content contentuid="hd3bbec3b1be2455986b5da92492f445d4296" version="1">No mod keybindings found.</content>
+	<content contentuid="h508b792738634a4f88639bd379f12e601e96" version="1">Restore last used subtab</content>
+	<content contentuid="hff55f0470579497788e9e048f207f1097809" version="1">When opening MCM (after loading a save), automatically restore the last used mod page.</content>
+	<content contentuid="h77422890f2f5433486d6e9990a950c91g061" version="1">Restore last used page</content>
+	<content contentuid="h90ef12cdf9314d539f9712e41fe2f4bb8afd" version="1">When a mod page is opened, automatically restore the last used subtab for that mod.</content>
+	<content contentuid="h62488e121c3345bf81777731789205cd2154" version="1">If you don't see the MCM window, please see the mod page for troubleshooting steps.&lt;br&gt;This is usually caused by third-party overlays or by alt-tabbing before reaching the main menu.&lt;br&gt;You may also try deleting imgui.ini inside the game's folder.</content>
+	<content contentuid="hbeb2a0a8c350441eae1f6912aea80689f0b2" version="1">Tiny</content>
+	<content contentuid="hdbe703ec2a034fbb8022a8651c47952be84b" version="1">Small</content>
+	<content contentuid="he0a910f53497499dac43116094b83686g431" version="1">Medium</content>
+	<content contentuid="h88ee680058a748d29f6a173ae38205621g58" version="1">Default</content>
+	<content contentuid="h0216f2c4d63f4915b25cd7f24b8396e3aff1" version="1">Large</content>
+	<content contentuid="ha93072e1b30e40ad9461191e5635882dbc2e" version="1">Big</content>
+	<content contentuid="h169974967d6d45bdb4fe1da9b042f51228c1" version="1">Font size</content>
+	<content contentuid="hb0581f5c946848979375a36f96a7febbg72b" version="1">Changes the size of text displayed in the MCM window.&lt;br&gt;NOTE: Icons will only have correct scale after changing font size if you reload a save.</content>
+	<content contentuid="hdeb0d5384b744247b7ce270b52ef4721ag3d" version="1">Set the font size for the MCM interface.</content>
+	<content contentuid="h7de073367e614d0d9d896abbaf2e1b6bdec0" version="1">Sidebar</content>
+	<content contentuid="h0813e1fea4fe4400b99a11216d16627be922" version="1">Start collapsed</content>
+	<content contentuid="h37d5cb487a49476db6c16dc59452cae67f6g" version="1">Start with the sidebar in a collapsed state when opening MCM.</content>
+	<content contentuid="h3dafbcac8ffe4c7b9ca391520326dbb65984" version="1">Toggle sidebar (collapse/expand)</content>
+	<content contentuid="h4db8c7a1952847eda028173a74dc5e166ea5" version="1">Toggles the sidebar between collapsed and expanded.</content>
+	<content contentuid="hc2133fbab6fb47a9a4f71e83a715780237e1" version="1">Reattach mod</content>
+	<content contentuid="h5f7bdef3596c49d4bd83d7586e4f56d3744d" version="1">Provides an in-game UI that enables players to intuitively manage mod settings and hotkeys.</content>
+	<content contentuid="hb2920a2b77c847959a151f340846407dc001" version="1">Toggle detached windows with main window</content>
+	<content contentuid="h7d50a040d7db44e7a7f0064dd56715d53d49" version="1">When toggling the MCM window, also toggle the visibility of any detached mod pages.</content>
+	<content contentuid="h4f7f7d8278084ab49b90d31af3f3810eegc7" version="1">By default, the sidebar automatically expands when hovering the menu icon, and will collapse when opening a mod page.&lt;br&gt;You can also manually toggle it with [1].</content>
+	<content contentuid="h48e0882af2b840e18f01ed08d40bfb03ggeb" version="1">Profile changes require a reload to take effect.</content>
+	<content contentuid="hcec0ce416d41404fa1358b7deb85124cb6d8" version="1">Connecting players cannot use this page. Only the host may change these settings.</content>
+	<content contentuid="h38caa4e657a746509697741417cc96049f52" version="1">Window behavior</content>
+	<content contentuid="h4c268ec86668491996f95e0e311fd420fba7" version="1">Multiplayer</content>
+	<content contentuid="h2cf876f2bca243e5b907ef4b2db58d965bg5" version="1">Interface preferences</content>
+	<content contentuid="he697e03397c64a9e97a8762743d1111b4b91" version="1">Enable or disable specific log types. These settings work in conjunction with the debug level to determine which messages are displayed.</content>
+	<content contentuid="he26ef06bc36043578987ed0e7fe059046206" version="1">Log types</content>
+	<content contentuid="hc7c98d50ed46434d8ab9d383c45ac51addbd" version="1">Enable debug logs"</content>
+	<content contentuid="h193e8c23d2504cef9a0002baacbdb6a7c923" version="1">Enable debug logs</content>
+	<content contentuid="h3a06069498904f7791e754ff190e1649e8a6" version="1">Enable debug logs (yellow)</content>
+	<content contentuid="hc836da17893e47618c2524c724a23f5585bd" version="1">Enable print logs</content>
+	<content contentuid="h48379d9c95fe4393b221b9d105374174ecaa" version="1">Enable standard print logs (cyan)</content>
+	<content contentuid="hdb101e2835e7482d919a3d1f0ae0af13fdc3" version="1">Enable info logs</content>
+	<content contentuid="h2091c8df590049748bdf95d6141497e215gg" version="1">Enable info logs (light gray)</content>
+	<content contentuid="h97ff4d538fd24adebd33abcda9ed64e05e31" version="1">Enable success logs</content>
+	<content contentuid="h1023ace9c14d4a8bbf2c4c2f80a4c47c6513" version="1">Enable success logs (green)</content>
+	<content contentuid="habe7ddb9ad9944b58744705857ca8cde0357" version="1">Enable warning logs</content>
+	<content contentuid="hddf4673450d344dc924bc6210f17ea62544g" version="1">Enable warning logs (orange-red)</content>
+	<content contentuid="h695e89a6bc5e4064b183454101463d0e3g4e" version="1">Mod '[1]' uses MCM but is loaded before MCM itself.&lt;br&gt;This may cause issues.&lt;br&gt;Please move '[2]' after MCM in your load order.</content>
+	<content contentuid="hbb05ad5f055141f5846365e1d6175ae74fb4" version="1">Load order precedence: load MCM before '[1]'</content>
+	<content contentuid="h22531fbba80a4aa5a046c3bbfd55c373g923" version="1">Warns if any mod in the load order has an invalid meta.lsx file.</content>
+	<content contentuid="hae5d939989a4461997798b892d7dc34366c4" version="1">Warns if there are missing or outdated load order dependencies.</content>
+	<content contentuid="h545b1baf66324fc28c0c726d7c016e73a3c9" version="1">Warns if incompatible No Press Any Key Menu version is detected in the load order.</content>
+	<content contentuid="h01582783e20d43bfba15142da3f8a22adf42" version="1">Warns if there are mod conflicts in the load order.</content>
+	<content contentuid="h5611eef852e342ed932b47cb0cedfa51g66e" version="1">Warns if MCM is not placed before dependent mods in the load order.</content>
+	<content contentuid="hc8d418eb08b243dca7827e5a873295d34d9b" version="1">Load order check</content>
+	<content contentuid="h9e33c60be1134adaa0256000af3a4a142c08" version="1">Health check toggle</content>
+	<content contentuid="h1fd4e620b15146b79d30f01768ceb27581gg" version="1">Warn about invalid meta.lsx files</content>
+	<content contentuid="hea337fe67fb44c6d9e2870b524bdcdc9e8bg" version="1">Warn about load order dependencies</content>
+	<content contentuid="h0386d12fd1774adcab7d6d40bc8dcc403182" version="1">Warn about NPAKM</content>
+	<content contentuid="h51d62ec178ef42339febafa360593169dccc" version="1">Warn about mod conflicts</content>
+	<content contentuid="h0b200012c87d4a2e8173a15243ee0355ace1" version="1">Warn about MCM precedence</content>
+	<content contentuid="hbc82ae3470f942bd843e33ae6e7498908935" version="1">MCM will scan your load order for potential issues and display visual warnings in the main menu if any are found.&lt;br&gt;It is recommended to keep all checks enabled. Most of these issues could cause problems for some of your mods.&lt;br&gt;Warnings can be disabled in an individual basis as they appear.</content>
+	<content contentuid="ha639028d9ca54b76a72e88059e3d24acd9a7" version="1">Yes</content>
+	<content contentuid="h2f7a7913be50404cbbdd9878ee774cca2113" version="1">No</content>
+	<content contentuid="he43ef9b250584bc2840b8b291c73e4b53cb4" version="1">Cancel</content>
+	<content contentuid="hf03356ba46684764b32d26ff28d3e709af5a" version="1">OK</content>
+	<content contentuid="h652b98e111884533a0ec00fd94ecc386f717" version="1">Confirm action</content>
+	<content contentuid="h6cea07ecefe545ddaf13f4259fa75a6b2400" version="1">Are you sure you want to proceed?</content>
+	<content contentuid="hac5a1fd7d223410b8a5fab04951eb428adde" version="1">Keybinding conflict: [1]</content>
+	<content contentuid="hbf47285d75054db8961a2bbd76e650fcd991" version="1">Camera Controls</content>
+	<content contentuid="h86fe2b0403a84fb7908f6bdf3ee17dd21e7f" version="1">Unknown</content>
+	<content contentuid="h726ccf29105d41538780a0a1b61bf3cab5f0" version="1">Photo Mode Controls</content>
+	<content contentuid="hd0c6191488c948b99d81f0cd66fc1ccb6a26" version="1">User Interface</content>
+	<content contentuid="h2d7144c5b0454e149411e2542ab303ae933b" version="1">Move Camera Forward</content>
+	<content contentuid="h39a720e76b4141949a505be4a602a75d54ea" version="1">Move Camera Backward</content>
+	<content contentuid="h7e26b3c3fa6a4606be5ba33fd622eb837e70" version="1">Move Camera Left</content>
+	<content contentuid="h24831ad9f6ef40a5a98377fa56ee766d8f26" version="1">Move Camera Right</content>
+	<content contentuid="h5675f4200f7f46a2a2af47c66fa9ccac2221" version="1">Zoom In</content>
+	<content contentuid="hca0f71f6093a4bf695237cae5bd5a1badg51" version="1">Zoom Out</content>
+	<content contentuid="h1ce8fbd46d3a4f46acba57ed0a734bfa2ab5" version="1">Rotate Camera Left</content>
+	<content contentuid="h5563361ff2b744848871cdbaf12539c16c5b" version="1">Rotate Camera Right</content>
+	<content contentuid="h74811b458d7c4508a32237dc7e3efa173789" version="1">Move Forward</content>
+	<content contentuid="h5dfb2c27117d4b779116875a427ff373c18f" version="1">Move Backward</content>
+	<content contentuid="h7b47f1295b6d48d491e5bce102d5637f11cf" version="1">Strafe Left</content>
+	<content contentuid="h867a112c3e6e4ae2bbc52dd477dbf4e3b95e" version="1">Strafe Right</content>
+	<content contentuid="hb12f6c48442548e1b9e387a14d9a20aaee2c" version="1">Jump</content>
+	<content contentuid="h7025fc893be6495088864712e05d0adaa889" version="1">Toggle Sneak</content>
+	<content contentuid="hdb227dc7309b42b885a9b133058c47aa5663" version="1">Interact</content>
+	<content contentuid="h024c99f044774880a6a1a90dc1f1bcbfb56c" version="1">Shove</content>
+	<content contentuid="h166a50bf762d4cd7a1d827184d336bb264df" version="1">Toggle Inventory</content>
+	<content contentuid="hab00d79972f3481784c6c31b1d5779f0c742" version="1">Toggle Character Sheet</content>
+	<content contentuid="h10c8d7eba5144bc4ac9ca09ff20f29e283af" version="1">Toggle Journal</content>
+	<content contentuid="h8745d6a103924a2fa748042b1c7b95734g00" version="1">Toggle Map</content>
+	<content contentuid="h70085eab331a4597bba1bfdcf6de0b5b8g23" version="1">Toggle Spells</content>
+	<content contentuid="hd0e73646b7c14325ac1d7a7e2ad65f3c9ggd" version="1">Toggle Combat Mode</content>
+	<content contentuid="ha67fb4a3797740c6b74aa406c9364064dd69" version="1">Toggle Weapon Set</content>
+	<content contentuid="hf5e39ec5e1914d2a8f6a9ee6d6e888ed968e" version="1">Accept</content>
+	<content contentuid="h683a30d71c35413086cbd53bfd4f4e8da827" version="1">Cancel</content>
+	<content contentuid="h579cabee5479438ab94dd3b8b47c66b70789" version="1">Move Cursor Left</content>
+	<content contentuid="had916ada428d43119b088e53521f3beb99b3" version="1">Move Cursor Right</content>
+	<content contentuid="h3ef3ea845c2e4902b8c4633a2c63209059g3" version="1">Move Cursor Up</content>
+	<content contentuid="h85d3fde3585b4127b2ccfe271399b3a7a5ea" version="1">Move Cursor Down</content>
+	<content contentuid="h44a74f242dc842828ae26f5e91408b423def" version="1">Next Tab</content>
+	<content contentuid="h79de9dffb4604234a93e77eef26696835f1g" version="1">Previous Tab</content>
+	<content contentuid="h9e7d63a517984acc84b5e64187cce82672d5" version="1">Toggle Menu</content>
+	<content contentuid="h0956d399e7d54f3c9e52482048530abcf06d" version="1">Throw Item</content>
+	<content contentuid="h1174c660801b4143acde0a6f1dfc2a6ed5g8" version="1">Toggle Mouse Rotation</content>
+	<content contentuid="h11c49d334a6d429eb1fa26da1379390a5333" version="1">General</content>
+	<content contentuid="hca3c9b028da54a9ebd0cf8e22da46a46b0d0" version="1">Camera Rotate</content>
+	<content contentuid="h65255d7a57fc43a794c4eff3390c9bea9db8" version="1">Camera Rotate Mouse Left</content>
+	<content contentuid="h0b766d48ddfb46f38adf3f430315a80f568f" version="1">Camera Rotate Mouse Right</content>
+	<content contentuid="hc1019c147d5e4ee8a382ae55be90e6b6e9ad" version="1">Default Camera Pan Camera</content>
+	<content contentuid="hbd4d8764bfc24bd89f2b947fee74388f396e" version="1">Default Camera Special Pan Camera 1</content>
+	<content contentuid="h9a1b0dae30be4ff6bb769a98f194bf97ffgd" version="1">Default Camera Special Pan Camera 2</content>
+	<content contentuid="h6e971fd9a04a449a92320f6dde43a388ed4g" version="1">Default Camera Toggle Mouse Rotation</content>
+	<content contentuid="h7932472ec2834c498a729c1485fd6ba9g4fc" version="1">Default Camera Capture Input</content>
+	<content contentuid="hb4463266c1dd4ded998ca5753a1ceef6acb1" version="1">Default Camera Left</content>
+	<content contentuid="h689229a5b0154cee9e92d60a8b719e51e51g" version="1">Default Camera Right</content>
+	<content contentuid="h3a6304ab54f9481ebcc774b8b944fbc50a12" version="1">Default Camera Forward</content>
+	<content contentuid="h547842626e7b4cd4ab197ae85e573371ff00" version="1">Default Camera Backward</content>
+	<content contentuid="h306a4564a58649c9bb62e1362689d7d355aa" version="1">Default Camera Up</content>
+	<content contentuid="hf17f8330c13745aa9c38e5d1b8af4f96gc34" version="1">Default Camera Down</content>
+	<content contentuid="hdc0ec747a3f446b481e31872f397e8f3dea4" version="1">Default Camera Zoom In</content>
+	<content contentuid="he74385f0940a4b648f692424fbd04c7eg82g" version="1">Default Camera Zoom Out</content>
+	<content contentuid="h62d1c30eb2b940538a8f621527e4f61c32b4" version="1">Default Camera Rotate Left</content>
+	<content contentuid="h449f3dca011f4f2da0ca66ee505d31b9585e" version="1">Default Camera Rotate Right</content>
+	<content contentuid="h44fbeadb66244f7fa33e93d3262a2666a8ed" version="1">Default Camera Rotate Up</content>
+	<content contentuid="h05868b89aa5349ad8a806722fc300fa76473" version="1">Default Camera Rotate Down</content>
+	<content contentuid="hef55bb5bb1da44c7aa04b72e45f8e9d99gf3" version="1">Default Camera Mouse Left</content>
+	<content contentuid="hcc0fefb3b1244b3981cb1b8718d9ab92770f" version="1">Default Camera Mouse Right</content>
+	<content contentuid="hce6cafdf68204fa2945ae83f80e3cb9a75d1" version="1">Default Camera Mouse Up</content>
+	<content contentuid="hc654575355334e61b6f755076df203ca9a28" version="1">Default Camera Mouse Down</content>
+	<content contentuid="h98df841eaae14b96af7a20817ef71f7a0f52" version="1">Default Camera Top View</content>
+	<content contentuid="h68dc91992e78477db27e5a6c941fe500e2e1" version="1">Default Camera Left View</content>
+	<content contentuid="h310444bd333044d0a3ddebaef8e7706dc6f5" version="1">Default Camera Front View</content>
+	<content contentuid="h20dd0f72166d408b8fa3671c3941abc99d3a" version="1">Default Camera Slow</content>
+	<content contentuid="he987f72da2284f7c87e59c57c1fc4e4d8684" version="1">Default Camera Fast</content>
+	<content contentuid="hdc08b6b0773e48b5bf7a2780ae877d7123g3" version="1">Camera Center</content>
+	<content contentuid="hcfcf729e19d44e5180469cbf9a23f547cb73" version="1">Free Camera Toggle Mouse Rotate</content>
+	<content contentuid="hd5f3012a28264751a0a987e474e38764b57d" version="1">Free Camera Move Forward</content>
+	<content contentuid="h907c9ebfe4e04c0280fa233a4611e80726g0" version="1">Free Camera Move Backward</content>
+	<content contentuid="h5d757beaf8e947248de29281a83a6a8827a7" version="1">Free Camera Move Left</content>
+	<content contentuid="h646937f0040f4bdf8950828224a886f937a2" version="1">Free Camera Move Right</content>
+	<content contentuid="h273da3dca9bc4fbc81deaf57288678e3d4b2" version="1">Free Camera FoV Increase</content>
+	<content contentuid="h62a818948f6240299fc74fcf3d981e8da4c4" version="1">Free Camera FoV Decrease</content>
+	<content contentuid="hdb342a5205a44173882e24e580fb032086e6" version="1">Free Camera Speed Increase</content>
+	<content contentuid="h22eda154c94c4e8ca9ce5bf5f8abaca89b2a" version="1">Free Camera Speed Decrease</content>
+	<content contentuid="h77ea83e0d9634ed495379cd0f5c45e1eg287" version="1">Free Camera Speed Reset</content>
+	<content contentuid="h4966a9019f3f46d4a06c50f5c80715508fc0" version="1">Free Camera Rotation Speed Increase</content>
+	<content contentuid="he515b86e2056453b88297a0949dc56af63a1" version="1">Free Camera Rotation Speed Decrease</content>
+	<content contentuid="h5643d3dd655b4c4f8c05c769b0ccc4c5ddd9" version="1">Free Camera Rotate Controller Left</content>
+	<content contentuid="h87d39b8c7f0348479726270ab6f29e4608c0" version="1">Free Camera Rotate Controller Right</content>
+	<content contentuid="h07354d24c17c4d7ca69646315c5ffd2877b6" version="1">Free Camera Rotate Controller Up</content>
+	<content contentuid="hbf83adfb014b4a018b50143ee85f0be423ed" version="1">Free Camera Rotate Controller Down</content>
+	<content contentuid="h4efd5b8251984a97ae8cbf0da8db3dca6g9f" version="1">Free Camera Rotate Mouse Left</content>
+	<content contentuid="h7a51e20de6be43c2ad312e066357bfad56ba" version="1">Free Camera Rotate Mouse Right</content>
+	<content contentuid="h7acaec12f43e48dea3944bacb256474dbf83" version="1">Free Camera Rotate Mouse Up</content>
+	<content contentuid="hf81b48c1b328429ab3b62592bca43657031b" version="1">Free Camera Rotate Mouse Down</content>
+	<content contentuid="ha81a63fe68414312a487f07d1fe216f43g48" version="1">Free Camera Height Increase</content>
+	<content contentuid="he480b3ed8e214feca1476ea8a4a46514g5dg" version="1">Free Camera Height Decrease</content>
+	<content contentuid="h8427c067e9a044dabc96871865891161ff55" version="1">Free Camera Slowdown</content>
+	<content contentuid="h06f2f68751704b6eb12078b48bdff785a30e" version="1">Free Camera Freeze Game Time</content>
+	<content contentuid="h986adaf5349a4e1abcd769e2dc8bc610a15a" version="1">Photo Mode Camera Backward</content>
+	<content contentuid="h13faba6bbbed4573b798c0f47b36fa050cd1" version="1">Photo Mode Camera Forward</content>
+	<content contentuid="hc5664999162a47708319e46a14bed744c112" version="1">Photo Mode Camera Left</content>
+	<content contentuid="h91fb94a2e63f42868ef297a71e5bf21b20f5" version="1">Photo Mode Camera Right</content>
+	<content contentuid="h474ac2dc2b9f44b6bae8963e6db7147c875g" version="1">Photo Mode Camera Toggle Mouse Rotate</content>
+	<content contentuid="hbb85722af6ca4ebe92a57d0dbf517b6781f4" version="1">Photo Mode Camera Height Increase</content>
+	<content contentuid="h7662dfebc9fe46ddaaf62ad93a5018f2f41d" version="1">Photo Mode Camera Height Decrease</content>
+	<content contentuid="hdf29b2304ccd4e5eb440df3a41e13ad193df" version="1">Photo Mode Camera Rotate Mouse Right</content>
+	<content contentuid="h778f79d064b44b62b0bae0c62ae6184e0076" version="1">Photo Mode Camera Rotate Mouse Left</content>
+	<content contentuid="h087b9b3896554b69880cc3a74fb3b769dd26" version="1">Photo Mode Camera Rotate Mouse Up</content>
+	<content contentuid="h6766b001b58e4b04a8520f878576d0648f75" version="1">Photo Mode Camera Rotate Mouse Down</content>
+	<content contentuid="hd5dde2dd0056410597d1cdadcd3306565c3g" version="1">Photo Mode Camera Rotate Right</content>
+	<content contentuid="h535b72eefb7a404d85e3ad8861636b3bf278" version="1">Photo Mode Camera Rotate Left</content>
+	<content contentuid="heaa8aa296ae64d20b00d36483ffc5b07a793" version="1">Photo Mode Camera Rotate Up</content>
+	<content contentuid="h35215e74448440718814dd5418ea43a64e7e" version="1">Photo Mode Camera Rotate Up Alt</content>
+	<content contentuid="hb08416ad280c4ab7b6de9085b66aafd850eb" version="1">Photo Mode Camera Rotate Down</content>
+	<content contentuid="h3272fa322b104f13a79209e3f8a9587f1696" version="1">Photo Mode Camera Rotate Down Alt</content>
+	<content contentuid="hf3eaaddecf3243fa999b2c67c7268da31ca4" version="1">Photo Mode Camera Tilt Right</content>
+	<content contentuid="hd3a070a709f44f2fbff7d48c665044780d5e" version="1">Photo Mode Camera Tilt Left</content>
+	<content contentuid="hd06a913cc60c461eaa909fb64287bd62e1e6" version="1">Camera Zoom</content>
+	<content contentuid="h2d99b72d56444620af5d5278b313184c6bgf" version="1">UI Left Mouse</content>
+	<content contentuid="h4abf23e1306e44c18e64c70cbfc46522b9cg" version="1">UI Right Mouse</content>
+	<content contentuid="hcc1fdad6c34043d2a7a292536f332bfcdgdb" version="1">UI Add Class</content>
+	<content contentuid="hb5c63a42bc39440e8caa67a685abcec3b839" version="1">UI Delete</content>
+	<content contentuid="h69804cff6f814431a8b5fb4ca016c517c55a" version="1">UI Back</content>
+	<content contentuid="h4481014d1ac64deea7033c56d873ce06c943" version="1">UI Take All</content>
+	<content contentuid="h89092543ce544907a2c951d20d0c3b08b082" version="1">UI End Turn</content>
+	<content contentuid="h02d7492243eb40fbb694fbff8b42863aabed" version="1">UI Cancel End Turn</content>
+	<content contentuid="h440f997ed3504b0aa7b76a1096dd0bd1e523" version="1">UI Enter Turn-Based</content>
+	<content contentuid="h6c0e37a4fb0d4702bff8dc66b8e183952ea9" version="1">UI Leave Turn-Based</content>
+	<content contentuid="h87679221fc8644928f5b406d5e5bab2b6e4e" version="1">UI Flee From Combat</content>
+	<content contentuid="hfa8ad5d1d9554fabb0f16e0708725b357ga0" version="1">UI Radial Left</content>
+	<content contentuid="he00d11045ea5437ea267ea67245fb7713ef2" version="1">UI Radial Right</content>
+	<content contentuid="hc4f74296547842a6b6d1e07bc92c9ab0731d" version="1">UI Radial Up</content>
+	<content contentuid="hb441ff6947864d59bd56f0fdd098f4ec8789" version="1">UI Radial Down</content>
+	<content contentuid="h4ba960e53de94497b62a1c8e68dc07b48g9e" version="1">UI Pin Tooltip</content>
+	<content contentuid="h008f29b78e364d4dab47213cd5ebfb3ee935" version="1">UI Skip Dialog</content>
+	<content contentuid="he64aecc5064d4cd09684a57d81316d1dg0ec" version="1">UI Photo Mode Take Picture</content>
+	<content contentuid="h29b72b3048a44b5393a2eada528a9c0aa337" version="1">UI Toggle Tadpole Powers</content>
+	<content contentuid="he08c3dcdc835422f9388c08071bc585bcb2f" version="1">UI Toggle Alchemy</content>
+	<content contentuid="h2f52e71aa32b422198a070259d320856g2ad" version="1">UI Move</content>
+	<content contentuid="he47fe639bf574d73baadb31124c4eab13453" version="1">UI Selection Left</content>
+	<content contentuid="h0f3ae136300d4f8887e71577c6b9cd2f0836" version="1">UI Selection Right</content>
+	<content contentuid="h6b877e6171604f48bb2d8fb8cbc308504b30" version="1">UI Selection Up</content>
+	<content contentuid="hc77b1ed971f9406aa5a06b3c929898d31d8f" version="1">UI Selection Down</content>
+	<content contentuid="ha1e6a077fdf844b0a19434d64285e91ag61d" version="1">UI Select Character 1</content>
+	<content contentuid="h8617d809bd4a4445bf70db8098a7d1fdb194" version="1">UI Select Character 2</content>
+	<content contentuid="h1a8158c5c05e4c89aa94cad2f70bed303gfb" version="1">UI Select Character 3</content>
+	<content contentuid="hfafb197b8f854972959c56bb7eab287f6fbd" version="1">UI Select Character 4</content>
+	<content contentuid="h3390acdf1fc249e7a6daf0c7562364154b61" version="1">UI Select Slot 0</content>
+	<content contentuid="h48175d7c37b64adf90e6e242270517ec8g23" version="1">UI Select Slot 1</content>
+	<content contentuid="hda68219d62f44d33969e028e752ccbcc6601" version="1">UI Select Slot 2</content>
+	<content contentuid="haf3611659fd54a848d897b2668a892f74ga6" version="1">UI Select Slot 3</content>
+	<content contentuid="hb80a24b21eb94429880f11c8abaf0817df9d" version="1">UI Select Slot 4</content>
+	<content contentuid="he3330e2263f249808d5cb7e1f2843527d376" version="1">UI Select Slot 5</content>
+	<content contentuid="h5955022f8631446cbaff563386518828g17a" version="1">UI Select Slot 6</content>
+	<content contentuid="h2af37c4b4b2c4930ad0a385082d161bf51ef" version="1">UI Select Slot 7</content>
+	<content contentuid="he380bb90a2a14ffbbe24dc1632c8d72fd8eg" version="1">UI Select Slot 8</content>
+	<content contentuid="h0f7ef12e4cde43c1a83e01102ee5caead211" version="1">UI Select Slot 9</content>
+	<content contentuid="he14729c7c24c4f5b824b17014aafc25b330b" version="1">UI Select Slot 11</content>
+	<content contentuid="hdef14e19236b415ab1ee9cda561e24b21be4" version="1">UI Select Slot 12</content>
+	<content contentuid="hf553274d333440fe86d534484756103be194" version="1">UI Compare Items</content>
+	<content contentuid="h192d90ec6146484692fe7bb50bd3f6f88c80" version="1">UI Request Trade</content>
+	<content contentuid="he3333dd32ff64ec99856ded56947f97agd66" version="1">UI Add Points</content>
+	<content contentuid="h9c171970fa93401aa606177553705f56388f" version="1">UI Remove Points</content>
+	<content contentuid="hded26d631fa44474beea86d55378f803647a" version="1">UI Refresh</content>
+	<content contentuid="h3b0a99c916a14bbfa8d3d44fb6857ffb9af1" version="1">UI Create Lobby</content>
+	<content contentuid="h3bd29e03945b45939d0bd514c4296a787b83" version="1">UI Create</content>
+	<content contentuid="h0d95cd7c207e4edbb82ce175f24f644a126b" version="1">UI Show Info</content>
+	<content contentuid="h58f2c1bfe8de4cd98f54a7313eb639bfa0bg" version="1">UI Rename</content>
+	<content contentuid="h74177cf959244947bffbc7e29759496f41ff" version="1">UI Enter Code</content>
+	<content contentuid="h90cea83b293d487195868b60e356aa50a719" version="1">UI Filter</content>
+	<content contentuid="ha8f4ddef57744e2abf42f39c4413a1b78057" version="1">UI Kick Player</content>
+	<content contentuid="hb4ed231499454218aca2594bce0eeb55f1e3" version="1">UI Mute Player</content>
+	<content contentuid="hd5f524db8ae545bba852a0c8d5ea8a09f140" version="1">UI Rename Lobby</content>
+	<content contentuid="h031ccc6ac7674afe81dee72e7200231133d3" version="1">UI Move Character</content>
+	<content contentuid="hcf56e3f399df4e6fb60d963f97b936c6g242" version="1">UI Map Add Custom Marker</content>
+	<content contentuid="h35b8e3a0db304529bc48ad134b458b4412b0" version="1">UI Map Remove Custom Marker</content>
+	<content contentuid="h6ac8accc9298483bbbb06e2abf99e2ef42c7" version="1">UI Map Move</content>
+	<content contentuid="h7c22ab09edb142b39b9965dc31ea7e106b0g" version="1">UI Map Down</content>
+	<content contentuid="hf24b00c25a2c44ea9f7b3d14a738be7aga30" version="1">UI Map Up</content>
+	<content contentuid="h872e7f75cf1e4ecd8e4c4e7b12380b5d9fe7" version="1">UI Map Left</content>
+	<content contentuid="hfa58c7c1995b42339fab923f85f32d762a4e" version="1">UI Map Right</content>
+	<content contentuid="hd880fd59c0064efba6d4600444084000gc0f" version="1">UI Map Zoom In</content>
+	<content contentuid="h8091326048444ab484ebc802ad6b27e9895c" version="1">UI Map Zoom Out</content>
+	<content contentuid="h513f5b3741574514856f55956c69542c15e5" version="1">UI Map Reset</content>
+	<content contentuid="h6f388c8a502149da839f8aef63b7c2ba0197" version="1">UI Map Remove Marker</content>
+	<content contentuid="h726e7ba802404831ab705e54073d460a7d97" version="1">UI Map Toggle Waypoints</content>
+	<content contentuid="h1655b14224e24c7b970efc4c08d440f76g16" version="1">UI Map Show In Journal</content>
+	<content contentuid="ha5c9edbacb3c4c4692e249ffbf84d77ba17g" version="1">UI Switch Mode</content>
+	<content contentuid="h6c315fc27ab34598ad76938b8a926765e6eb" version="1">UI Trade Balance</content>
+	<content contentuid="he8d008d767244b62a885e1b0ebbe05192a14" version="1">UI Message Box A</content>
+	<content contentuid="h4a7aa6e27a40441db9d3dc45c1e194d32c95" version="1">UI Middle Mouse</content>
+	<content contentuid="h4ab0252bd58f49e6b7136b34e6c9333229g8" version="1">UI Message Box B</content>
+	<content contentuid="h80488bbc7a6040cba5faea8942e66cabage3" version="1">UI Message Box X</content>
+	<content contentuid="h0701152629594eca895103e3cc3533ec2535" version="1">UI Message Box Y</content>
+	<content contentuid="hb8200ff5b04743d18775be3f71f318ea8e77" version="1">UI Invite</content>
+	<content contentuid="he5b16dd444504bc68fce7de63057ec2f4dgg" version="1">UI Toggle Tutorials</content>
+	<content contentuid="h64d164a1b528473ea8fabc5ef2b5900ddffe" version="1">UI Copy</content>
+	<content contentuid="h5bdc1e938bae47808614c7402492dd8a01g5" version="1">UI Cut</content>
+	<content contentuid="h1181bdb1a45948b3a4e232d4b35351a31078" version="1">UI Paste</content>
+	<content contentuid="h2d549aeb08534e6a806aa2bb6d3112cb2faf" version="1">UI Edit Text Box</content>
+	<content contentuid="h7252f2cf5a75432e87180abc2bd5c36d8021" version="1">UI Select All Text</content>
+	<content contentuid="he3cbcaab441f4e23991d4e7bc6adcc684g69" version="1">UI Mark Wares</content>
+	<content contentuid="h84e8a6d621dd4b84a7fe21e5b1cb5465f10e" version="1">UI Sort</content>
+	<content contentuid="h4591b045d6cf4f93923828884a199317967b" version="1">UI Toggle Character Overview</content>
+	<content contentuid="h4fb2af28ef5b475fb60eaf636d4ec7bf0f72" version="1">UI Direct Connect</content>
+	<content contentuid="h480aec761e954eb7b1b107e7bfd536658f83" version="1">UI Start Poll</content>
+	<content contentuid="h28315b28e49a488a8a4a1ed3ae0c7983581g" version="1">UI Call Allies</content>
+	<content contentuid="h23a5defb94e844599b0366c7ca4117648d00" version="1">UI Toggle Photo Mode</content>
+	<content contentuid="h1820800a42bd423fb748a4e1b893b659c224" version="1">UI Toggle Photo Mode Secondary</content>
+	<content contentuid="hca96810ba819482088ffd0fbf38ff4879a0c" version="1">UI Toggle Photo Preview</content>
+	<content contentuid="h7e7fe2c28c7f41dbb976a2615c7fa95deeg5" version="1">UI Mouse Move</content>
+	<content contentuid="ha9f106df0a2e4abd85781ffe824088276209" version="1">UI Arrow Up</content>
+	<content contentuid="h66476f508f15438491e8b8d4012df9799e8b" version="1">UI Arrow Left</content>
+	<content contentuid="h802cbc5d375140d1bdf3864f02181c0e8dc8" version="1">UI Arrow Right</content>
+	<content contentuid="hf46adae2c595408f8da3f122cf9fd44280eg" version="1">UI Arrow Down</content>
+	<content contentuid="h1d8a46e8be3d4d949a298c4348eef9e314e1" version="1">UI Enter</content>
+	<content contentuid="hf6a7f00dd09d459cbfe377d46d15e1f11d0e" version="1">UI Page Up</content>
+	<content contentuid="hb50b645e19bf4096aa261faa16b378813eed" version="1">UI Page Down</content>
+	<content contentuid="h347938013ca34ebea8af66f26103dd7194c7" version="1">UI Backspace</content>
+	<content contentuid="h7a893fb58e1e4bafa9eee999e499b69e7739" version="1">UI Tab</content>
+	<content contentuid="hdc0579a84022495cb2ee35bfd884409fb5d9" version="1">UI Base Delete</content>
+	<content contentuid="he14f2c79256443d1be7cfe2518dd83694e9b" version="1">UI Home</content>
+	<content contentuid="hd0e492509b8e485d9ec5af749eb147f6823f" version="1">UI End</content>
+	<content contentuid="h5eb65f086e4f4b17a905e154583ccffcad22" version="1">UI Control</content>
+	<content contentuid="h75f626d3764949bd8207326cf6647822e5bg" version="1">UI Alt</content>
+	<content contentuid="h28462220fb79426facd2ae827bbbe92126e0" version="1">UI Scroll</content>
+	<content contentuid="h09d38de6ce0541928443e1279cd57041a907" version="1">UI Scroll Up</content>
+	<content contentuid="h4cd4ff4fb3c1491a9550118319a937e33713" version="1">UI Scroll Down</content>
+	<content contentuid="h49bb2b320aec456ca8200558b40f5729dc01" version="1">UI Base Cancel</content>
+	<content contentuid="h288fae81577f419d9c72587b7ce3f363fd59" version="1">Unknown Event</content>
+	<content contentuid="h2cd35179b628404888a7591e0dd4a39df719" version="1">Keyboard Any</content>
+	<content contentuid="h7fe7a19fb85845a49b43d4c6d3d315bdc0f9" version="1">Controller Unlinked Y</content>
+	<content contentuid="h931e9d90ece9430bb670e8a9c11507e22d6d" version="1">Character Creation Rotate Left</content>
+	<content contentuid="hff85a5b3ad11454681f93460161a3dad1dcc" version="1">Character Creation Rotate Right</content>
+	<content contentuid="hd68486c2534d4ae8ac81a0a908c840773b7e" version="1">Character Creation Accept</content>
+	<content contentuid="hce6dde4e159f4483838e2beefe0943712129" version="1">Drag Single Toggle</content>
+	<content contentuid="h39791671286749f19a8bdba21a954074f2fd" version="1">Toggle Presentation</content>
+	<content contentuid="h57836785adbb487fb354cf5384a814fe1de6" version="1">Toggle Summary Focus</content>
+	<content contentuid="h83d84d2b66694188b757479532c3fa9e04c1" version="1">Jump To/From Tab</content>
+	<content contentuid="h36dc6036e95b4a3bbb89e1724d500c09bagb" version="1">Party Management</content>
+	<content contentuid="hd057a2eba22643dfa449d580cbf6895b4c58" version="1">Panel Select</content>
+	<content contentuid="h624d52e219d444e0aac8b663f24970424046" version="1">Speaker Select</content>
+	<content contentuid="h62fdef50557b4fea846a0eff6d096c514g73" version="1">Cycle Characters Next</content>
+	<content contentuid="ha72b7840bd374170b9f85711ed3bbda4g2c3" version="1">Cycle Characters Previous</content>
+	<content contentuid="h8804811c8e63414f8a0462746cef071d6d75" version="1">Climbing Toggle</content>
+	<content contentuid="hb4b329f071604ed0bbc0a3a0143b9d666f3b" version="1">Destruction Toggle</content>
+	<content contentuid="h7c025683b6304ed88ad47646cb68f7ab3g1d" version="1">Highlight Characters</content>
+	<content contentuid="hb57a6a1e874f4ee4b33b9b1a19abf88d35a7" version="1">Action Cancel</content>
+	<content contentuid="h962c8ec282184fdea668fe284b18f82c3fe0" version="1">Next Object</content>
+	<content contentuid="hd362aaa08d074773a6ed9f0569796f6c0b59" version="1">Pause</content>
+	<content contentuid="haa7762b0a6234ae78ee7fb57944b5a163427" version="1">Previous Object</content>
+	<content contentuid="h3544bf864e2b4d92b115647488cf0d15c3ba" version="1">Quick Load</content>
+	<content contentuid="h3b99b5e1df9747aebad55127b0db5195ffg8" version="1">Quick Save</content>
+	<content contentuid="hd753c2113c544357b28506e59a9d06684ggg" version="1">Skip Video</content>
+	<content contentuid="h06de41ab38f74605abe46112bd3e1a0a35ad" version="1">Split Item Toggle</content>
+	<content contentuid="h721d2740f81c4d9d9607c044120ad0dbeb07" version="1">Rotate Item Left</content>
+	<content contentuid="h6bf6bf37965f481eab4dd388f720c90eb003" version="1">Rotate Item Right</content>
+	<content contentuid="h2df0d785a5de4ecbba515a05f1bef602ef52" version="1">Teleport Player</content>
+	<content contentuid="hce5b54aab69d443b9e377d5b905dbfa7gd57" version="1">Teleport Party</content>
+	<content contentuid="h40717b10cbf846b9b79ea931e5b32ad3a3de" version="1">Toggle Dual Wielding</content>
+	<content contentuid="he5ad755ff4df43e1b1d08fba97f3affd08fg" version="1">Toggle Splitscreen</content>
+	<content contentuid="he0a71bdd4f394ef48d5eff7a58b5e7eab348" version="1">Toggle Info</content>
+	<content contentuid="hdf7f843e0fc44ea7a8a09a25085f8fe04bg4" version="1">Toggle Input Mode</content>
+	<content contentuid="hc97fb7504e044139aec09e86b8d02e7d95da" version="1">Cancel Selector Mode</content>
+	<content contentuid="h72c079b9beef48e79c875fc7d5b8f58bd611" version="1">Toggle Reactions</content>
+	<content contentuid="h378e1029cffe4c7bb940e46e9620dae545g7" version="1">Toggle Spells End</content>
+	<content contentuid="h64dc7f623b5a48ba89fcc6afc2f192e6fd85" version="1">Toggle Inspiration</content>
+	<content contentuid="hef2dff2fa6ad47f2bf5912407693f3ec2ddb" version="1">Toggle Rest Panel</content>
+	<content contentuid="he0284364d6774c129c1a1ddd8e2f2c8e58g5" version="1">Toggle Group Mode</content>
+	<content contentuid="hcf0d398f98bc43038a4047acd58c6cef734g" version="1">Toggle Group Stealth</content>
+	<content contentuid="hfd845180546841de96822dba2e0109513g29" version="1">Toggle Manual Turn-Based Mode</content>
+	<content contentuid="h06608135ff944031b7e3b3a723cad74171cd" version="1">Toggle Party Character View</content>
+	<content contentuid="hbed62b0879a647848b23f30346bc9d4ac134" version="1">Grouping Select</content>
+	<content contentuid="h77f5251ae9cb49f180d27117be27d9e1b985" version="1">Grouping Split</content>
+	<content contentuid="hd171f96e597e43d3b5687c389eb18fbf4309" version="1">Grouping Confirm</content>
+	<content contentuid="ha88d8e04fcd14353b8f7f5fdbf7d0a8cf050" version="1">Context Menu</content>
+	<content contentuid="h546ff0ce91884e2498312f32d4894e8eaa54" version="1">Short Rest</content>
+	<content contentuid="ha2bd15b94fb84b8294a8f7f0da6817222db2" version="1">Combine</content>
+	<content contentuid="hd2df01fe941a4226a93f8c19bc9c3fe7592e" version="1">Toggle Tactical Camera</content>
+	<content contentuid="hcee23ded5f704f4c92db8d9ff90cc15caca7" version="1">Show World Tooltips</content>
+	<content contentuid="h79288933c105410f88d0711d0d1a61e2ced9" version="1">Expand Tooltip</content>
+	<content contentuid="hb39ff35cf39b411ebeba61e2ad3557f7d121" version="1">Show Sneak Cones</content>
+	<content contentuid="hb1105ac29ac7466b8ceeede18d38bd7bcaeb" version="1">Toggle Dialog Privacy</content>
+	<content contentuid="hbecb08632f3b43629c5a8dd527b7e26c9752" version="1">Ping</content>
+	<content contentuid="hdf5be3bb2a1849e6bff7d6fd6160ce489b15" version="1">Copy Version To Clipboard</content>
+	<content contentuid="he65a21022ec1467198c175cc57afbae96b37" version="1">Connectivity Menu</content>
+	<content contentuid="he65316a83c2f4289be84355f20a84d4e1502" version="1">Toggle Dialogue History</content>
+	<content contentuid="h612c636464e34b439cbdee3963b459db4a42" version="1">Widget Toggle Output</content>
+	<content contentuid="h153f6082eab04bdd8771d8bb354fcde12g6d" version="1">Widget Toggle Effect Stats</content>
+	<content contentuid="h72d61e4d485c472da08c8214444e66570e4f" version="1">Action 1</content>
+	<content contentuid="hb0e9ae166da34efe9cfeb1d07357122f533b" version="1">Widget Screenshot</content>
+	<content contentuid="h0fdf56b33b544badbc8f7c2e5148c09f29dg" version="1">Widget Screenshot Video</content>
+	<content contentuid="h93488d3acd0948419b54e50d40a2c6bd51aa" version="1">Widget Toggle Options</content>
+	<content contentuid="h4da1d9e240c6459ca3572253a4203c28bb01" version="1">Widget Toggle Stats</content>
+	<content contentuid="he1ed03181b194ea3832e48a63566d54efgf9" version="1">Widget Toggle Debug Console</content>
+	<content contentuid="hd5d21c510f3c4216aa760658fe2897dd25b9" version="1">Widget Toggle VFX Debug</content>
+	<content contentuid="h89bf121f74c84230b2394e3b24be24a82147" version="1">Widget Toggle Graphics Debug</content>
+	<content contentuid="h98242c17bdc445ed85ba7f9cdb270ac4e1cf" version="1">Widget Toggle Developer Comments</content>
+	<content contentuid="h9aeff2ca846946e1b46736840ea30b157cc1" version="1">Widget Button Tab</content>
+	<content contentuid="h00fe16755a9e45dba2672adc35d46d2bgg29" version="1">Widget Button Left</content>
+	<content contentuid="h2e4898e64c1c4db3b3f26d5c2ce16263effg" version="1">Controller Unlinked Back</content>
+	<content contentuid="hc9101064ae2b486e8d872ed724f666f675f1" version="1">Widget Button Right</content>
+	<content contentuid="he2fc1be5bd8f4e33b4033663c1f1b1c5a480" version="1">Widget Button Up</content>
+	<content contentuid="h7696491ed4574493934a2c9ad78c3f48a5b9" version="1">Widget Button Down</content>
+	<content contentuid="h9a1597e286924caeaed995708cfcfd316acg" version="1">Widget Button Home</content>
+	<content contentuid="h676b52308b9f471a96982a2f555f5913152e" version="1">Widget Button End</content>
+	<content contentuid="h67843375188844a3b5414d3dd2bc087dggg3" version="1">Widget Button Delete</content>
+	<content contentuid="h06d50aa27b3f462dbf04caa855bea4887532" version="1">Widget Button Backspace</content>
+	<content contentuid="h013e22bb30164c159a5a2410e99d2842ggc4" version="1">Widget Button Enter</content>
+	<content contentuid="h3f0e8a1b3f4841dcbce53de91b01e775ba50" version="1">Widget Button Escape</content>
+	<content contentuid="hbcc6cb8134f645eb8014ae454be544b9b4g0" version="1">Widget Button Page Up</content>
+	<content contentuid="h71fe26d92e4341dfa00c760d829f9fe6eaa6" version="1">Controller Unlinked Start</content>
+	<content contentuid="hd2ced909ea9d40e4b9432475421e37afgg77" version="1">Widget Button Page Down</content>
+	<content contentuid="h5807090e197140f8ae9f2298fa5f8fc0073e" version="1">Widget Button Space</content>
+	<content contentuid="h0b6ab5b9d24c4c0e8b807fcaa897e6cad64e" version="1">Widget Button A</content>
+	<content contentuid="hdd6d73615d9f4a7aa956c05aee44e18cd3f5" version="1">Widget Button C</content>
+	<content contentuid="h8bdc102f6afe46a8b51afbf7f9b8798269a4" version="1">Widget Button V</content>
+	<content contentuid="h15b19f5fa5d84feaa84d3932b4371e0fb1fd" version="1">Widget Button X</content>
+	<content contentuid="h44bc1c8fdea9409483f4bf05f76fd136299f" version="1">Widget Button Y</content>
+	<content contentuid="hf4bb8ae90d6f4db2bb1106b7f21ab1782423" version="1">Widget Button Z</content>
+	<content contentuid="h997ca36769d344059c69c642b050e0083d7a" version="1">Widget Undo</content>
+	<content contentuid="h64586b7bbcf842af92c5d7b7c4dcfff1a5g5" version="1">Widget Redo</content>
+	<content contentuid="h80de29c5fb1c41ce82e2cb68e13d0ff43db4" version="1">Controller Unlinked A</content>
+	<content contentuid="h04f7a0a63b264b0fb97dc4f3592e1ae5833b" version="1">Widget Cut</content>
+	<content contentuid="he29c12f2825042e1a3c12d6e7d495d731g13" version="1">Widget Copy</content>
+	<content contentuid="h5286552f153e4ab8bc884633a1a2951eg167" version="1">Widget Paste</content>
+	<content contentuid="hc1afa239fd1148c39c9a7c27328a683150cd" version="1">Widget Scroll Up</content>
+	<content contentuid="h7e13b6e0bf5e462ea1b91391cd5c27fab326" version="1">Widget Scroll Down</content>
+	<content contentuid="h81f900b6acd0486e8f2902098ccc81b68816" version="1">Widget Mouse Motion</content>
+	<content contentuid="h2493ff0983e643bc8fea4bd95b665cef3fc7" version="1">Widget Mouse Left</content>
+	<content contentuid="hf0c2fd4c56a64f0f8b71262129de4b9b29fd" version="1">Widget Mouse Right</content>
+	<content contentuid="h5471cbe24a5b43739a991242912f1fd304d6" version="1">Controller Unlinked B</content>
+	<content contentuid="h108a40bd44e043d5975c5e6765aad4d11e7a" version="1">Controller Unlinked X</content>
+	<content contentuid="hbaeea4f4db8b46ed98f47a36a38cbe72c463" version="1">Action executed!</content>
+	<content contentuid="h56d95a2dbb034ce6a8145626d3abf55fg274" version="1">Button errored. Please contact [1] about this issue.</content>
+	<content contentuid="hc19226a66ff845e0b3e8ddcae7b251c52d23" version="1">No callback registered for event_button '[1]'.</content>
+	<content contentuid="h20966555a08747a0bec0a3e0e77047b3f9gc" version="1">Button cooldown: [1][2]</content>
+	<content contentuid="hb31fa6f91735475eb72da548b26a3516af31" version="1">Button cooldown: [1]</content>
+	<content contentuid="hcd9314b58f0946be8df07686c2cb9518b95g" version="1">s</content>
+	<content contentuid="hdbcd16c5f55e4e9c800e7284ebef8b0f5372" version="1">This mod has one or more assigned hotkeys.&lt;br&gt;Click to open Hotkeys.</content>
+	<content contentuid="hef97155533604ba6adf42a09c666469c0c4c" version="1">Vanilla/Native keybindings are read-only. This UI does not update when you change them in-game.</content>
+	<content contentuid="h692c5bc059d841ccba0bc66c92f5bb09e53g" version="1">Vanilla keybindings</content>
+	<content contentuid="haafdc7e359944b89905c4d536bfed7cda1gf" version="1">Right-click dropdowns to open mod settings:</content>
+	<content contentuid="h49debc27a18f46c88019e4b14873abe342gd" version="1">Default</content>
+	<content contentuid="h6e67df8d41ed4712907ffbbcb84c7b73785b" version="1">Open Dyslexic</content>
+	<content contentuid="h05a14fc966bf404cb9dcf17ed31499eb130a" version="1">Inter</content>
+	<content contentuid="hcf014b47a26b49aea4bd79866dc8f964dfg5" version="1">Font</content>
+	<content contentuid="hf587b45ae8714886851fa1fd555455985e21" version="1">Select the font to use.</content>
+	<content contentuid="h37e3d35cef6a43468bb71a253982d5634de8" version="1">Text is saved when you click outside the field.</content>
+	<content contentuid="hbadbecf8d8f149af8ceaa61c606f3539dd45" version="1">Apply font styling to other windows.&lt;br&gt;Note this currently does not affect custom windows created by mod authors.</content>
+	<content contentuid="ha0754485dddb46b5902f09bfb426ecbd1367" version="1">Apply the font settings to windows created by other mods.</content>
+	<content contentuid="ha01f9dde75564cd7902c5056f1f3d03ba1ea" version="1">Note: the Keybindings feature only works for keyboard input.</content>
+	<content contentuid="he0bae6ed370f481cac73d3eb515e12a0gg35" version="1">Reset Lua (Server)</content>
+	<content contentuid="h9d0b2ab058c949eda1871604cba0083bd4c1" version="1">Reinitializes the server Lua VM.</content>
+	<content contentuid="h2b1ab8b215ff4918bd9f9319d52a1fb33460" version="1">Reset Lua (Client)</content>
+	<content contentuid="hf82a99a351d14f99b76dfe7e0f7acfc65dgf" version="1">Reinitializes the client Lua VM.</content>
+	<content contentuid="h0309afa0d6ad410380557d1d911b61f4dg98" version="1">MCM gamepad overhaul</content>
+	<content contentuid="hfd59a213843e4116a1d716a2a8840cd408dc" version="1">Welcome to MCM 1.38+!&lt;br&gt;Gamepad navigation has been overhauled:&lt;br&gt;- START closes MCM,&lt;br&gt;- SELECT/BACK opens the sidebar,&lt;br&gt;- L1/LB and R1/RB switches tabs.&lt;br&gt;Happy modding!</content>
+	<content contentuid="h58020bcb72504ef3a6fad23cdb3819d6gg3d" version="1">Advanced settings</content>
+	<content contentuid="hd0d22e7238af4415bbab1cb58d0118ea5759" version="1">Hide main menu MCM button</content>
+	<content contentuid="h83a20893c0454583b0919d29d4a292c8ae5a" version="1">Hide the button that opens the MCM window in the main menu.</content>
+	<content contentuid="h7e2260907ca24449ac99f48ba8c149c6d6bf" version="1">Sidebar width</content>
+	<content contentuid="h57d43b08f0974d2683202bc8737416da4740" version="1">The width of the sidebar in pixels.&lt;br&gt;Since the sidebar is dynamic, its expanded width can only be statically defined (IMGUI limitation).&lt;br&gt;This will only take effect after re-expanding the sidebar.</content>
+	<content contentuid="h2e2fee5757724d0bb36dc9406bbac89539a1" version="1">Sidebar animation duration (ms)</content>
+	<content contentuid="h306ab94b54e949a8b6dfac9f474e5cd7a91g" version="1">The duration of the sidebar animation in milliseconds.</content>
+	<content contentuid="ha7dbcb7a64404859b1f9c8a6efa96b304d06" version="1">Ignore conflict</content>
+	<content contentuid="h35a1d92d0e8e404f906a4b087020f9e6g3dg" version="1">Allow this keybinding to overlap with others without triggering a conflict warning.</content>
+	<content contentuid="h67618b59e83a4e4a985b6c9ac6eaddc44097" version="1">Failed to create profile</content>
+	<content contentuid="h307fdf94464d4e4094cbd5a14524ff7a2aec" version="1">Profile created but failed to activate</content>
+	<content contentuid="h99661797e4a24133adbec51c43d5af9fbfea" version="1">Profile names cannot contain: &lt; &gt; : " / \ | ? *</content>
+	<content contentuid="hb3c02a4a05ef473cb392b1676825c591b669" version="1">Name cannot be empty</content>
+	<content contentuid="hb7ab5c14941a4ad2937bd55a042659951217" version="1">Created!</content>
+	<content contentuid="he60a94339e6f4b75849f0f12b58e1b88d907" version="1">Creation failed</content>
+	<content contentuid="hf3ff49ff1f6745f3baab4ed65795b61a300b" version="1">Uncategorized</content>
+	<content contentuid="hfd82935321af4ad0b327de79a102776acf5f" version="1">Error rendering category: [1]</content>
+	<content contentuid="h57485812cafd494fb9760145f24a4545529e" version="1">No native keybindings found for '[1]'.</content>
+	<content contentuid="h8b7aadb821514fb2afdd0f2e6f5db0a4c17g" version="1">No native keybindings found.</content>
+	<content contentuid="h5fbaa1934264475183db962866b0ffdda1d4" version="1">Click to disable '[1]' (without removing it from the list)</content>
+	<content contentuid="h939aa7402ac94d3a914df12627e0fcf7g6dd" version="1">Click to enable '[1]' (without removing it from the list)</content>
+	<content contentuid="he22ddc287c2d45b09f226b97c4325995aebe" version="1">Move '[1]' up in the list</content>
+	<content contentuid="hdd1c9c4bd6cb4c5bbb4a297c9074019cbdcf" version="1">Move '[1]' down in the list</content>
+	<content contentuid="hb5b5a421b3504260bcd72028b4311c4352a8" version="1">Remove '[1]' from the list</content>
+	<content contentuid="he13476240f764b7d909142a61c47883da0eb" version="1">Page [1] of [2][3] | [4]/[5] elements</content>
+	<content contentuid="ha7d3826dfe234bf3955d5b2306057c33gbc4" version="1">Enabled</content>
+	<content contentuid="hdf6d7d2620f041c2afc116ebf15accc1be5g" version="1">Conflict</content>
+	<content contentuid="hd8524a99cb1f41059b7e2aa9c543e68ad7g7" version="1">Error in RenderKeybindingTable: [1]</content>
+	<content contentuid="h88508a0d202548d39742531d1ecadb2e911e" version="1">Modifier (optional)</content>
+	<content contentuid="h494d0797cc724b3481b61f0f7f99b5d4b3gb" version="1">Key</content>
+	<content contentuid="hf19a6659055c484797ca4f7e0b60706eff45" version="1">Add to the list</content>
+	<content contentuid="hc51c15db9485404a8023ffcff47d58ee7b72" version="1">Type a new value to add to the list</content>
+	<content contentuid="ha0f6f33bf8ca456aa02f9dc8811b2c5a6324" version="1">Reset this list to its default values</content>
+	<content contentuid="h7e3aa28155fe43919d388881ea27a45d0a6b" version="1">Action disabled until reload/reset</content>
+	<content contentuid="h8f387f7585c44277893ec0714a67c13f4g18" version="1">[Hide sidebar]</content>
+	<content contentuid="h9db97044cb044d15b12a4edf05f463154812" version="1">[Show sidebar]</content>
+	<content contentuid="h861b52b0eba84565aa41b19875c087d1fea6" version="1">[Detach]</content>
+	<content contentuid="he66f0182055744419b01312c1d04dc85e906" version="1">[Reattach]</content>
+	<content contentuid="h8be200f84a794856bf872e571f4410f19479" version="1">[Reset]</content>
+</contentList>

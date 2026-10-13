@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="r">
+		<node id="r">
+			<children>
+				<node id="parent">
+					<children>
+						<node id="with_attr">
+							<attribute id="foo" type="int32" value="1" />
+						</node>
+						<node id="empty1" />
+						<node id="empty2" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

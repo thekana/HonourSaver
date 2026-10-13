@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="8" revision="0" build="100" />
+  <region id="ModuleSettings">
+    <node id="root">
+      <children>
+        <node id="Mods">
+          <children>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="GustavX" />
+              <attribute id="MD5" type="LSString" value="ef3fcba3f3684b3088ad1f9874d4957c" />
+              <attribute id="Name" type="LSString" value="GustavX" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="cb555efe-2d9e-131f-8195-a89329d218ea" />
+              <attribute id="Version64" type="int64" value="145241946983074840" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BG3MCM" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Mod Configuration Menu" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="755a8a72-407f-4f0d-9a33-274ac0f0b53d" />
+              <attribute id="Version64" type="int64" value="41376825871433728" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="DebugBook_af8f78f6-2cda-1958-e5a0-1f673f2c152b" />
+              <attribute id="MD5" type="LSString" value="1f72cae93de965f6c6bcddf883da7543" />
+              <attribute id="Name" type="LSString" value="DebugBook" />
+              <attribute id="PublishHandle" type="uint64" value="4329730" />
+              <attribute id="UUID" type="guid" value="af8f78f6-2cda-1958-e5a0-1f673f2c152b" />
+              <attribute id="Version64" type="int64" value="36028797018963977" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="NoIntro_7fa55404-7280-11ed-4c26-63116a161862" />
+              <attribute id="MD5" type="LSString" value="fc9e238b2e0834f07bf428e304ff91f6" />
+              <attribute id="Name" type="LSString" value="NoIntro" />
+              <attribute id="PublishHandle" type="uint64" value="4118890" />
+              <attribute id="UUID" type="guid" value="7fa55404-7280-11ed-4c26-63116a161862" />
+              <attribute id="Version64" type="int64" value="36028801313931264" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="5eSpells" />
+              <attribute id="MD5" type="LSString" value="601e5bcafca57809821a6f15c2220df9" />
+              <attribute id="Name" type="LSString" value="5eSpells" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="fb5f528d-4d48-4bf2-a668-2274d3cfba96" />
+              <attribute id="Version64" type="int64" value="72620548286316545" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ACT1Nightmode_1263494e-babe-347b-0045-ac5a6f3041a3" />
+              <attribute id="MD5" type="LSString" value="067c17f448308ead21abc597a32e604d" />
+              <attribute id="Name" type="LSString" value="Act 1 Night Mode Patch 8 Compatible" />
+              <attribute id="PublishHandle" type="uint64" value="4886692" />
+              <attribute id="UUID" type="guid" value="1263494e-babe-347b-0045-ac5a6f3041a3" />
+              <attribute id="Version64" type="int64" value="36028797018964036" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="MainDarkerAct3Nightmode_41fed61b-5321-e2b9-3df9-00f191897af3" />
+              <attribute id="MD5" type="LSString" value="08af69d6c30a29b70e681cc33ff76a38" />
+              <attribute id="Name" type="LSString" value="Act 3 Night Mode Patch 8 Compatible" />
+              <attribute id="PublishHandle" type="uint64" value="4886495" />
+              <attribute id="UUID" type="guid" value="41fed61b-5321-e2b9-3df9-00f191897af3" />
+              <attribute id="Version64" type="int64" value="36028797018964077" />
+            </node>
+              <attribute id="Folder" type="LSString" value="RadialHotbarCustomization" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="RadialHotbarCustomization" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="bea9614c-dfaa-4e72-a545-96a0af3ac234" />
+              <attribute id="Version64" type="int64" value="844637531013120" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="AppearanceEditEnhanced" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="AppearanceEditEnhanced" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="7b8366bd-abc1-4f9f-ba9d-585549b4a750" />
+              <attribute id="Version64" type="int64" value="108227132840214528" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="AppearanceEditOrigins" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="AppearanceEditOrigins" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="60de8215-7e9f-4cb6-9763-05aa6aecf257" />
+              <attribute id="Version64" type="int64" value="72057596185411584" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ConditionFixer" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="ConditionFixer" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="63d49a75-99e4-4163-8e43-16fd7e1fbb02" />
+              <attribute id="Version64" type="int64" value="36028801313931265" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

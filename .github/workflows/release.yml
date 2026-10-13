@@ -1,0 +1,56 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-windows:
+    name: Build ReclaimHonour.exe
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache cargo and target
+        uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: rust
+
+      - name: Test
+        working-directory: rust
+        run: cargo test --workspace --locked
+
+      - name: Build release binary
+        working-directory: rust
+        run: cargo build --release --locked -p reclaimhonour-app
+
+      - name: Package
+        working-directory: rust
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
+          Compress-Archive -Path target/release/ReclaimHonour.exe `
+            -DestinationPath dist/ReclaimHonour-windows-x86_64.zip
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ReclaimHonour-windows-x86_64
+          path: rust/dist/ReclaimHonour-windows-x86_64.zip
+          if-no-files-found: error
+
+      - name: Publish GitHub Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: rust/dist/ReclaimHonour-windows-x86_64.zip
+          generate_release_notes: true

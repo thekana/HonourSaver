@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="700" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Config">
+		<node id="Config">
+			<attribute id="Version64" type="int64" value="36169534507319298" />
+			<children>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="CombatCharacterHighlightMode" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="2" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="VoiceVolumeOverhead" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="HoldToEndTurn" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="1" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="WasLarianModPolicyAccepted" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="1" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="BookFontSizeModifier" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="16" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="NorthFacingMinimap" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="1" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="SteamDeckDefaultControllerMode" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ShowCombatFeedSplitScreen" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="MasterVolume" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ControllerRumbleStrength" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="AmbientVolume" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="OverheadFontSizeModifier" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="16" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="UIVolume" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="NrOfAutoSaves" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="10" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ShowPings" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="DefaultTradeToBarter" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ShowFirstTimeSetup" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="MusicVolume" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="WeightedRolls" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ShowTextBackground" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="1" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="SoundVolumeDynamicRange" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="1" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="PeaceCharacterHighlightMode" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="2" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="CameraShakeEnabled" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="NrOfQuickSaves" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="10" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="SoundOcclusionQuality" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="RumbleVolume" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="AutoListenEnabled" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="1" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ShowTutorialsAnswered" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="1" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="AutoFillHotbarCategories" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="320" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="GameVisibilityOnline" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="FxVolume" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="DialogueFontSizeModifier" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="16" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ActiveCustomDice" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Value" type="LSString" value="2723d3d2-f578-ede4-28a4-b239ca89c493:94661359-9093-4c82-9abf-55108fbf89f5" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="ShowTutorials" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="VoiceVolume" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="TacticalCharacterHighlightMode" />
+					<attribute id="Type" type="int32" value="0" />
+					<attribute id="Value" type="int32" value="0" />
+				</node>
+				<node id="ConfigEntry" key="MapKey">
+					<attribute id="MapKey" type="FixedString" value="PointAndClickSoundFrequencyFloat" />
+					<attribute id="Type" type="int32" value="2" />
+					<attribute id="Value" type="float" value="0" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

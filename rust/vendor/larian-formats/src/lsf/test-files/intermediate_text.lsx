@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="Entry">
+					<attribute id="A" type="int32" value="1" />
+					<attribute id="B" type="int32" value="2" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="700" lslib_meta="v1,bswap_guids" />
+	<region id="TestNode">
+		<node id="TestNode">
+			<attribute id="TestGuid" type="guid" value="2723d3d2-f578-ede4-28a4-b239ca89c493" />
+		</node>
+	</region>
+</save>

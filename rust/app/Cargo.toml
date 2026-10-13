@@ -1,0 +1,23 @@
+[package]
+name = "reclaimhonour-app"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "reclaimhonour_app"
+path = "src/lib.rs"
+
+[[bin]]
+name = "ReclaimHonour"
+path = "src/main.rs"
+required-features = ["gui"]
+
+[features]
+default = ["gui"]
+gui = ["dep:eframe"]
+
+[dependencies]
+reclaimhonour-core = { path = "../core" }
+egui = "0.36.2"
+image = { version = "0.25.10", default-features = false, features = ["webp"] }
+eframe = { version = "0.36.2", optional = true }

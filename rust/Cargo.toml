@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = ["core", "app"]
+exclude = ["vendor/larian-formats"]
+
+[profile.release]
+opt-level = 2

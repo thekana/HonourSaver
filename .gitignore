@@ -1,0 +1,11 @@
+# Rust
+target/
+Cargo.lock
+!rust/Cargo.lock
+
+# Packaging output
+rust/dist/
+
+# OS cruft
+.DS_Store
+Thumbs.db
